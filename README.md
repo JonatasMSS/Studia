@@ -29,6 +29,16 @@ Além disso, utilizei o **Chain-of-Thought Prompting** para perguntas mais diret
 ### Chain-of-Thought Prompting
 ![image](https://github.com/JonatasMSS/Studia/assets/74430293/74a4105d-91b9-4c37-aae4-7a6fe12431a6)
 
+### Coleta dos histories
+Após preparar o Gemini para dar as respostas adequadas, coletei o *history* que será utilizado em cada chat de assistência.
+![image](https://github.com/JonatasMSS/Studia/assets/74430293/2d328d1c-65f8-4d98-9d6e-41feebc53dae)
+
+
+### Código 
+Cada chat está localizado na pasta **src/app/chat**. Dentro dessa pasta, está as respectívas páginas para cada assistência
+![image](https://github.com/JonatasMSS/Studia/assets/74430293/1d14fc85-26c4-4527-8603-093993f6e3d3)
+
+Em cada página, está localizada
 
 
 
