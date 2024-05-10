@@ -1,11 +1,23 @@
 # StudIA
 Um assistente para todos os estudantes 🧑‍🎓🤓
 
-## Problemática ⁉️
+## Problemática e solução ⁉️
 Uma coisa que sempre me incomodou em meus estudos, foi o fato de eu por vezes perder tempo na organização e ter a falta de professores para me auxiliar em momentos cruciais!
 Quando vejo uma videoaula, as vezes, os professores não estão disponíveis para dar o auxílio. As vezes, pedem para comentar em um vídeo, mas demoram para responder, assim, atrasando meu estudo. Outras vezes, preciso me organizar e, por vezes, perder tempo organizando uma plano de estudos ao longo da semana,mes ou ano.
 Mas...e se eu tivesse um assistente em estudos? Não só em uma área, como inglês, mas em todas as áreas de ensino? E com muito mais, usando I.A ⭐⭐
 Foi ai que pensei na **StudIA**
+
+**Imagine ter:**
+
+- Um professor particular sempre à disposição para esclarecer suas dúvidas, seja qual for a matéria
+- Um plano de estudos que se adapta às suas necessidades e ritmo, te ajudando a alcançar seus objetivos mais rápido
+- Ferramentas inteligentes que te guiam no processo de aprendizado, tornando-o mais eficiente e prazeroso
+
+**Chega de:**
+- Perder tempo se organizando e buscando ajuda individualizada
+- Frustrar-se com professores indisponíveis em videoaulas
+- Atrasar seus estudos por respostas demoradas em comentários
+- Investir horas na criação de planos de estudo que não funcionam
 
 ## Tecnologias utilizadas ⚙️
 Para o projeto, optei por utilizar
@@ -70,6 +82,16 @@ Acima, está a página de biologia como exemplo.
 - Começo de uma conversa
 ![image](https://github.com/JonatasMSS/Studia/assets/74430293/45d7dbd4-14e5-4299-bda1-2e5e59940e3d)
 
+
+## O que falta melhorar ⁉️
+
+Ainda preciso colocar animações e envio de mensagens dinâmicas com animações fluidas. Além disso, o chat precisa mais de treinamento, pois poderá retornar algo indevido. Mesmo assim, é um bom começo que está sujeito a melhorias
+
+# Gostou do projeto? Me dá uma estrelinha e me segue nas minhas redes!
+
+🔗Linkedin: https://www.linkedin.com/in/jonatasmss/
+🔗Instagram: https://www.instagram.com/dev.manojon/
+ 
 
 
 
