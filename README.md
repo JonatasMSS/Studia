@@ -29,6 +29,9 @@ Para o projeto, optei por utilizar
 
 ## Como inicializar o projeto
 
+🔗 Link para acesso do projeto -> https://studia-roan.vercel.app/
+
+
 **Configuração de varíaveis de ambiente**
 - Crie um arquivo **.env**
 - Dentro dela coloque a API_KEY exatamente com o nome abaixo
