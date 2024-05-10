@@ -17,5 +17,10 @@ Para o projeto, optei por utilizar
 
 ## Funcionamento 💻🖥️
 
+Para realiza-lo, primeiro tive que treinar o Gemini, usando o **Ai Studio**, para se adaptar a perguntas de contextos em cada área de ensino.
+Por exemplo, para área de inglês, humanas e linguagens, utilizei a técnica de **Few-shot prompting** para poder ter um certo contexto junto com alguns exemplos para o modelo entender e dar respostas apropriadas.
+
+
+
 
 
