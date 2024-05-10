@@ -13,9 +13,14 @@ const config: Config = {
         "Iris": "#5F4BB6",
         "Black-Olive": "#232F29",
         "Mint-white": "#F7FFF7",
-        "Dark-gourmete": "#161C19"
+        "Dark-gourmete": "#161C19",
+        "Wheat-Gourmete": "#414F48"
       }
+
     },
+    fontFamily: {
+      'main': 'var(--font-lexend)'
+    }
   },
   plugins: [],
 };
