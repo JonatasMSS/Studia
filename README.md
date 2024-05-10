@@ -15,6 +15,24 @@ Para o projeto, optei por utilizar
 - Gemini API 
 - Javascript como linguagem principal
 
+## Como inicializar o projeto
+
+**Configuração de varíaveis de ambiente**
+- Crie um arquivo **.env**
+- Dentro dela coloque a API_KEY exatamente com o nome abaixo
+
+```bash
+NEXT_PUBLIC_API_KEY = "SUA CHAVE"
+```
+
+**Inicialização**
+```bash
+  npm install
+  npm run dev
+```
+
+
+
 ## Funcionamento 💻🖥️
 
 
@@ -41,6 +59,7 @@ Cada chat está localizado na pasta **src/app/chat**. Dentro dessa pasta, está 
 Em cada página, está localizada a configuração do chat junto com a instância **chat** para envio de mensagem
 
 ![image](https://github.com/JonatasMSS/Studia/assets/74430293/4672590c-b136-4700-a3db-60c9f93ae06f)
+
 Acima, está a página de biologia como exemplo.
 
 ## Telas 💻
