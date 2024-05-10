@@ -38,7 +38,19 @@ Após preparar o Gemini para dar as respostas adequadas, coletei o *history* que
 Cada chat está localizado na pasta **src/app/chat**. Dentro dessa pasta, está as respectívas páginas para cada assistência
 ![image](https://github.com/JonatasMSS/Studia/assets/74430293/1d14fc85-26c4-4527-8603-093993f6e3d3)
 
-Em cada página, está localizada
+Em cada página, está localizada a configuração do chat junto com a instância **chat** para envio de mensagem
+
+![image](https://github.com/JonatasMSS/Studia/assets/74430293/4672590c-b136-4700-a3db-60c9f93ae06f)
+Acima, está a página de biologia como exemplo.
+
+## Telas 💻
+
+- Seleção de ajuda
+![image](https://github.com/JonatasMSS/Studia/assets/74430293/133589dd-4a88-429c-a38f-b5b2c9ea179b)
+
+- Começo de uma conversa
+![image](https://github.com/JonatasMSS/Studia/assets/74430293/45d7dbd4-14e5-4299-bda1-2e5e59940e3d)
+
 
 
 
