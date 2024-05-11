@@ -1,4 +1,7 @@
+"use client";
+
 import Link from "next/link";
+import { InfoMSG } from "../Alerts/Info";
 
 export const HeaderLayout = () => {
   return (

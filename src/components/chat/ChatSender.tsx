@@ -10,7 +10,7 @@ type chatSenderProps = {
 export const ChatSender = ({ msg, role }: chatSenderProps) => {
   if (role === "user") {
     return (
-      <div className="flex flex-row-reverse  items-center gap-5">
+      <div className="flex flex-row-reverse animate-opacity-1/2  items-center gap-5">
         <UserLogo size={20} />
         <h2 className="font-light">{msg}</h2>
       </div>
@@ -18,7 +18,7 @@ export const ChatSender = ({ msg, role }: chatSenderProps) => {
   }
 
   return (
-    <div className="flex items-center gap-10">
+    <div className="flex animate-opacity-1/2 items-center gap-10">
       <Logo size={20} />
       <h2 className="font-light w-[80%] text-justify">
         <Markdown>{msg}</Markdown>
