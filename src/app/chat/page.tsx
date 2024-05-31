@@ -13,14 +13,14 @@ export default function IntroChatPage() {
 
       {/* Title */}
 
-      <h1 className="text-3xl sm:text-5xl text-left w-3/4 sm:w-1/2 animate-transition-box-2s">
+      <h1 className="text-3xl text-white sm:text-5xl text-left w-3/4 sm:w-1/2 animate-transition-box-2s">
         Olá estudante! <br /> Sou a stud
         <span className="font-bold text-Iris">IA</span>{" "}
       </h1>
 
       {/* Sub title */}
 
-      <section className="w-3/4 sm:w-1/2 font-light flex flex-col animate-transition-box-3s">
+      <section className="w-3/4 sm:w-1/2 text-white font-light flex flex-col animate-transition-box-3s">
         <h2>Seu assistente em estudos!</h2>
         <h2>Em que gostaria de ser ajudado?</h2>
       </section>

@@ -12,7 +12,7 @@ export const ChatSender = ({ msg, role }: chatSenderProps) => {
     return (
       <div className="flex flex-row-reverse animate-opacity-1/2  items-center gap-5">
         <UserLogo size={20} />
-        <h2 className="font-light">{msg}</h2>
+        <h2 className="font-light text-white">{msg}</h2>
       </div>
     );
   }
@@ -20,7 +20,7 @@ export const ChatSender = ({ msg, role }: chatSenderProps) => {
   return (
     <div className="flex animate-opacity-1/2 items-center gap-10">
       <Logo size={20} />
-      <h2 className="font-light w-[80%] text-justify">
+      <h2 className="font-light text-white w-[80%] text-justify">
         <Markdown>{msg}</Markdown>
       </h2>
     </div>

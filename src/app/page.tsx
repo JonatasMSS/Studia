@@ -9,7 +9,7 @@ export default function Home() {
       <div className="animate-transition-box-1s ">
         <Logo size={80} />
       </div>
-      <h2 className="font-light text-4xl animate-transition-box-2s">
+      <h2 className="font-light text-white text-4xl animate-transition-box-2s">
         Stud<span className="font-bold text-Iris">IA</span>
       </h2>
       <Link

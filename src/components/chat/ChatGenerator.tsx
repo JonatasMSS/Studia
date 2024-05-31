@@ -55,16 +55,16 @@ export const ChatGenerator = ({
   };
 
   return (
-    <main className="flex gap-10 p-12 flex-col overflow-auto  w-[60%] h-[500px] bg-Gourmete border-[1px] border-[#414F48] rounded-lg">
+    <main className="flex gap-10 p-10 flex-col overflow-auto  w-[60%] h-[500px] bg-Gourmete border-[1px] border-[#414F48] rounded-lg">
       <Chat chatHistory={localHistory} />
 
       {/* Input */}
-      <div className="w-[44rem] fixed left-72 bottom-8 justify-between flex bg-[#161C19] rounded-full p-2">
+      <div className="w-full relative top-80 justify-between flex bg-[#000000] rounded-full p-2">
         <input
           type="text"
           value={inputValue}
           onChange={(e) => setInputValue(e.currentTarget.value)}
-          className="w-[90%] border-none font-light outline-none bg-transparent"
+          className="w-[90%] border-none font-light text-white outline-none bg-transparent"
         />
 
         {isLoading ? (
